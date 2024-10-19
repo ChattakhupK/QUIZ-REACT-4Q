@@ -72,7 +72,7 @@ const Question = () => {
               คุณได้ {score}/{questions.length} คะแนน
               <br />
               <br />
-              <button onClick={() => handleRe()}>Again!!</button>
+              <button onClick={() => handleRe()}>ลองอีกครั้ง!!!</button>
             </div>
           ) : (
             <>
